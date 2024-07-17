@@ -12,7 +12,7 @@ class ContactUsPage extends StatelessWidget {
         foregroundColor: Colors.white,
       ),
       body: Center(
-        child: Text('Contact us '),
+        child: Text('Contact us from here '),
       ),
     );
   }
